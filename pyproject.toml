@@ -155,5 +155,3 @@ plugins = ["pydantic.mypy"]
 strict = true
 disallow_untyped_defs = true
 implicit_reexport = true
-
-[tool.pdm]
